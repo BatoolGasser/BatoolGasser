@@ -4,11 +4,11 @@
 ---
 
 ### 🌟 About Me  
-I am a passionate **Statistics and Computer Science** graduate with a strong drive for innovation in Artificial Intelligence and Data Science.  
-I got an **AI Scholarship** at the National Telecommunication Institute (NTI), where I deepened my expertise in machine learning, data analytics, and AI-driven solutions.  
-Following that, I completed an **AI internship at Orange Innovation Egypt**, gaining hands-on experience in applying advanced algorithms to real-world challenges.  
+- I am a passionate **Statistics and Computer Science** graduate with a strong drive for innovation in Artificial Intelligence and Data Science.  
+- I got an **AI Scholarship** at the National Telecommunication Institute (NTI), where I deepened my expertise in machine learning, data analytics, and AI-driven solutions.  
+- Following that, I completed an **AI internship at Orange Innovation Egypt**, gaining hands-on experience in applying advanced algorithms to real-world challenges.  
 
-Currently, I am serving as a **Mathematics Teaching Assistant** at **Misr International University (MIU)**, where I contribute to the academic development of students while continuing to expand my knowledge in AI and data-driven problem solving.
+- Currently, I am serving as a **Mathematics Teaching Assistant** at **Misr International University (MIU)**, where I contribute to the academic development of students while continuing to expand my knowledge in AI and data-driven problem solving.
 
 ---
 ### Education
