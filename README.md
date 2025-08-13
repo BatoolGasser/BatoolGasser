@@ -7,9 +7,9 @@
 I am a dedicated and results-driven **Data Scientist** with a strong passion for transforming data into actionable insights. My expertise lies in leveraging advanced statistical methods, machine learning models, and data visualization techniques to solve real-world problems.  
 
 ---
-## 🎓 Education
+### 🎓 Education
 
-### 🏫 Bachelor’s Degree in Statistics and Computer Science, Faculty of Science**  
+### 🏫 Bachelor’s Degree in Statistics and Computer Science, Faculty of Science 
 ![University Badge](https://img.shields.io/badge/Ain_Shams_University-0055A4?style=flat&logo=google-scholar&logoColor=white)  
 ![GPA Badge](https://img.shields.io/badge/GPA-3.0/4.0-brightgreen)  
 ---
