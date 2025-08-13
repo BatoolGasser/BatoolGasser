@@ -21,7 +21,9 @@
 
 ### 📫 Connect With Me  
 <p align="left">
-<!-- Add your LinkedIn, Portfolio, or other social links here -->
+  <a href="https://www.linkedin.com/in/batool-mohamed-9506802a0/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
+  </a>
 </p>
 
 ---
