@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Batool Gasser</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Problem Solver</h3>
+<h3 align="center">AI Engineer | Mathematics Teaching Assistant | Problem Solver</h3>
 
 ---
 
